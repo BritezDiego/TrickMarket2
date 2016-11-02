@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InfoMoto</string>
+    <string name="title_section1">Bajaj</string>
+    <string name="title_section2">Beta</string>
+    <string name="title_section3">Brava</string>
+    <string name="title_section4">Corven</string>
+    <string name="title_section5">Gilera</string>
+    <string name="title_section6">Guerrero</string>
+    <string name="title_section7">Honda</string>
+    <string name="title_section8">Jawa</string>
+    <string name="title_section9">Jianshe</string>
+    <string name="title_section10">Kawasaki</string>
+    <string name="title_section12">Keller</string>
+    <string name="title_section13">KTM</string>
+    <string name="title_section14">Kymco</string>
+    <string name="title_section15">Mondial</string>
+    <string name="title_section16">Motomel</string>
+    <string name="title_section17">Susuki</string>
+    <string name="title_section18">Yamaha</string>
+    <string name="title_section19">Zanella</string>
+    <string name="banner_ad_unit_id">ca-app-pub-8813373392027632~4847935106</string>
+</resources>
